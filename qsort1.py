@@ -1,3 +1,5 @@
+#this is the List Compression version. Works slightly differently but is obviously much more efficient.
+
 def qsort1(list):
     """Quicksort using list comprehensions"""
     if list == []: 

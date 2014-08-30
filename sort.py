@@ -1,3 +1,5 @@
+#This is my unfinished version. Quite bloated because I am writing it as if it were java
+
 set = [10,9,8,7,6,5,4,3,2,1,0]
 
 def sortList(sortSet):
